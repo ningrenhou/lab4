@@ -1,3 +1,5 @@
+// Vedio froms the game "代号鸢"
+// The picture froms Tiktok
 var qiaoyu;
 var yuanji;
 var numberofkitties = 4;
